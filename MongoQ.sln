@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30503.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MongoQ.Reader.Console", "MongoQ.Reader.Console\MongoQ.Reader.Console.csproj", "{336EBE06-1062-49B9-AE2F-20DB360E9044}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MongoQ.Writer.Console", "MongoQ.Writer.Console\MongoQ.Writer.Console.csproj", "{B831E058-5FC1-4597-81A9-907F258608E8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FEBBD735-291D-4C13-BF2F-F8554FC32205}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FEBBD735-291D-4C13-BF2F-F8554FC32205}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FEBBD735-291D-4C13-BF2F-F8554FC32205}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FEBBD735-291D-4C13-BF2F-F8554FC32205}.Release|Any CPU.Build.0 = Release|Any CPU
+		{336EBE06-1062-49B9-AE2F-20DB360E9044}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{336EBE06-1062-49B9-AE2F-20DB360E9044}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{336EBE06-1062-49B9-AE2F-20DB360E9044}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{336EBE06-1062-49B9-AE2F-20DB360E9044}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B831E058-5FC1-4597-81A9-907F258608E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B831E058-5FC1-4597-81A9-907F258608E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B831E058-5FC1-4597-81A9-907F258608E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B831E058-5FC1-4597-81A9-907F258608E8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E6995A5F-1822-4AF3-8059-CCF87AD65661}
+	EndGlobalSection
+EndGlobal
